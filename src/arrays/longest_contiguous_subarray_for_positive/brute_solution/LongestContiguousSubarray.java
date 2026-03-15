@@ -1,5 +1,10 @@
 package arrays.longest_contiguous_subarray_for_positive.brute_solution;
 
+// Problem: Longest Contiguous Subarray
+// Given an array of positive integers and a number k,
+// find the length of the longest contiguous subarray
+// whose sum is less than or equal to k.
+
 public class LongestContiguousSubarray {
     public static void main(String[] args) {
         int[] arr = {2, 5, 1, 7, 10};
