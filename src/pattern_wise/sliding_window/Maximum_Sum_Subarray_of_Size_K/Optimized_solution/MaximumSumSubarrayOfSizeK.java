@@ -1,4 +1,4 @@
-package pattern_wise.sliding_window;
+package pattern_wise.sliding_window.Maximum_Sum_Subarray_of_Size_K.Optimized_solution;
 
 
 public class MaximumSumSubarrayOfSizeK {
